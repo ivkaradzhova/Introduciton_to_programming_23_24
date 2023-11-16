@@ -310,4 +310,4 @@ int main(){
 Проверете дали сред 8 кралици поставени върху шахматна дъска 8x8, има поне две, които се бият.
 Две кралици сe бият, ако за един ход едната може да стигне до позицията на другата, т.е. двете кралици се намират на един ред, колона или диагонал.
 
-### Classwroom assignment: https://classroom.github.com/a/QaYUfS0L 
+### Classroom assignment: https://classroom.github.com/a/QaYUfS0L 
